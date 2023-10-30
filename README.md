@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @JOEYZYC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JOEYZYC/JOEYZYC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @JOEYZYC. Nice to meet you! 你好，我是 @JOEYZYC，很高兴见到你！
+- 👀 I’m interested in Embedded Development.我对嵌入式开发感兴趣。
+- 🌱 I’m currently learning Schematic and PCB Design, Embedded Software Development, 3D Modeling, AI.我目前正在学习原理图和PCB设计、嵌入式软件开发、3D建模、人工智能
+- 💞️ I’m looking to collaborate on Building a Quadcopter Drone.我希望在完成一架四旋翼无人机的项目中进行合作。
+- 📫 How to reach me? 如何联系我？
