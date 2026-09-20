@@ -34,5 +34,3 @@
     <img src="https://raw.githubusercontent.com/JOEYZYC/joeych-readme-cards/main/preview/svgs/banner_light.svg" width="900" alt="View the terminal card service documentation">
   </picture>
 </a>
-
-[GitHub](https://github.com/JOEYZYC) · [Website](https://joeyzyc.github.io/joeych-pages/) · [eFlyDrone-Boards](https://github.com/JOEYZYC/eFlyDrone-Boards)
